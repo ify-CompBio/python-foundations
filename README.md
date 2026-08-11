@@ -27,30 +27,30 @@ as a reference for syntax and patterns.
 
 ---
 
-## A — Anecdotal (What I learned by doing)
+## A — Anecdotal (What I learn by doing)
 
-Throughout development, I encountered common beginner issues such as:
+Throughout development, I will encounter common beginner issues such as:
 
 - Off-by-one errors in loops
 - Confusion between mutable and immutable data types
 - TypeErrors from mixing strings and numbers
 
-These learning moments are recorded as:
+These learning moments should be recorded as:
 - comments inside scripts
 - informative Git commit messages
 
-This acts as a lightweight debugging log.
+This will act as a lightweight debugging log.
 
 ---
 
 ## C — Conceptual (Why it works)
 
-Conceptual understanding is captured separately from code, focusing on:
+Conceptual understanding should be captured separately from code, focusing on:
 - what loops *represent* (iteration, not repetition)
 - why functions improve reuse and clarity
 - how data structures affect program design
 
-Conceptual explanations are intentionally short and written in plain language.
+Conceptual explanations should be short and written in plain language.
 
 ---
 
@@ -76,7 +76,7 @@ The repository prioritises *knowing how to find information*, not storing it all
 
 ## Structure
 
-Scripts are ordered numerically to reflect learning progression.
+Scripts should be ordered numerically to reflect learning progression.
 Each file represents one isolated concept.
 
 This repository serves as a foundation for later projects in
