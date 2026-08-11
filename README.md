@@ -77,7 +77,9 @@ The repository prioritises *knowing how to find information*, not storing it all
 ## Structure
 
 Scripts should be ordered numerically to reflect learning progression.
-Each file represents one isolated concept.
+Each file represents one isolated concept, however some roadmap scripts touch multiple ideas.
+The file name reflects the PRIMARY concept being trained.
+
 
 This repository serves as a foundation for later projects in
 data analysis and bioinformatics.
